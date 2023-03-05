@@ -1,6 +1,6 @@
 # Android Application: Calculating the International Roughness Index (IRI) based on GPS and Accelerometer sensors on bicycle-mounted Android smartphones
 
-![Radfahren in Osnabrück](https://github.com/JanaK-L/AndroidApp_InternationalRoughnessIndex/blob/main/RadBanner.png)
+![Radfahren in Osnabrück](https://github.com/JanaK-L/AndroidApp_InternationalRoughnessIndex/blob/main/images/RadBanner.png)
 
 In Osnabrück, bicycle traffic is of great importance:
 * Proportion of students in the total population is over 15%
@@ -18,4 +18,7 @@ This Project attempts to measure the IRI quantitatively, but with a few differen
 
 The procedure and our results are represented in the <a href="https://github.com/JanaK-L/AndroidApp_InternationalRoughnessIndex/blob/main/ProjectReport.pdf" target="_blank" rel="noreferrer">project report</a>.
 
-[![Project Report]()](https://github.com/JanaK-L/AndroidApp_InternationalRoughnessIndex/blob/main/ProjectReport.pdf)
+<p align="center">
+  <img src="https://github.com/JanaK-L/AndroidApp_InternationalRoughnessIndex/blob/main/images/MosaCutie.png" width="350" title="hover text">
+  <img src="https://github.com/JanaK-L/AndroidApp_InternationalRoughnessIndex/blob/main/images/beimRadfahrenEinenHelmMitMosasaurusDraufTragen.png" width="350" alt="accessibility text">
+</p>
