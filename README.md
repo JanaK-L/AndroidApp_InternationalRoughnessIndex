@@ -20,9 +20,9 @@ The procedure and our results are represented in the <a href="https://github.com
 
 <p align="center">
   <img src="https://github.com/JanaK-L/AndroidApp_InternationalRoughnessIndex/blob/main/images/index9.jpg" width="200" title="Der Mosasaurier zeigt den über GPS ermittelten Standort des Benutzers an.">
-  <img src="https://github.com/JanaK-L/AndroidApp_InternationalRoughnessIndex/blob/main/images/index4.jpg" width="200" title="Die gefahrene Strecke kann bei Bedarf gespeichert werden.">
-  <img src="https://github.com/JanaK-L/AndroidApp_InternationalRoughnessIndex/blob/main/images/klasse5.jpg" width="200" title="">
-  <img src="https://github.com/JanaK-L/AndroidApp_InternationalRoughnessIndex/blob/main/images/klasse4.jpg" width="200" title="">
+  <img src="https://github.com/JanaK-L/AndroidApp_InternationalRoughnessIndex/blob/main/images/index4.jpg" width="200" title="Die gefahrene Strecke kann bei Bedarf gespeichert und später erneut geladen werden.">
+  <img src="https://github.com/JanaK-L/AndroidApp_InternationalRoughnessIndex/blob/main/images/klasse5.jpg" width="200" title="Die Fahrt auf einem Grünstreifen vor der Bib am Westerberg.">
+  <img src="https://github.com/JanaK-L/AndroidApp_InternationalRoughnessIndex/blob/main/images/klasse4.jpg" width="200" title="Eine ziemlich holprige Stadtfahrt.">
   
   <img src="https://github.com/JanaK-L/AndroidApp_InternationalRoughnessIndex/blob/main/images/glatterWeg2.jpg" width="200" title="">
   <img src="https://github.com/JanaK-L/AndroidApp_InternationalRoughnessIndex/blob/main/images/beimRadfahrenEinenHelmMitMosasaurusDraufTragen.png" width="200" title="Beim Radfahren sollte ein Helm mit einem Mosasaurus drauf getragen werden.">
