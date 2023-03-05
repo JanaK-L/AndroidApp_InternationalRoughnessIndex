@@ -24,9 +24,9 @@ The procedure and our results are represented in the <a href="https://github.com
   <img src="https://github.com/JanaK-L/AndroidApp_InternationalRoughnessIndex/blob/main/images/index4.jpg" width="200" title="Die gefahrene Strecke kann bei Bedarf gespeichert werden.">
   <img src="https://github.com/JanaK-L/AndroidApp_InternationalRoughnessIndex/blob/main/images/index9.jpg" width="200" title="Der Mosasaurier zeigt den über GPS ermittelten Standort des Benutzers an.">
   
-  <img src="https://github.com/JanaK-L/AndroidApp_InternationalRoughnessIndex/blob/main/images/index9.jpg" width="200" title="">
-  <img src="" width="200" title="">
-  <img src="" width="200" title="">
-  <img src="" width="200" title="">
+  <img src="https://github.com/JanaK-L/AndroidApp_InternationalRoughnessIndex/blob/main/images/klasse5.jpg" width="200" title="">
+  <img src="https://github.com/JanaK-L/AndroidApp_InternationalRoughnessIndex/blob/main/images/glatterWeg2.jpg" width="200" title="">
+  <img src="https://github.com/JanaK-L/AndroidApp_InternationalRoughnessIndex/blob/main/images/klasse4.jpg" width="200" title="">
+  <img src="https://github.com/JanaK-L/AndroidApp_InternationalRoughnessIndex/blob/main/images/keinVideo.png" width="200" title="">
 </p>
 
