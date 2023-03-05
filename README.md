@@ -19,11 +19,12 @@ This Project attempts to measure the IRI quantitatively, but with a few differen
 # Examples of "Fahrradwegbeschaffenheit" 🚴🚴🚴
 The applied procedure and the results are represented in the <a href="https://github.com/JanaK-L/AndroidApp_InternationalRoughnessIndex/blob/main/ProjectReport.pdf" target="_blank" rel="noreferrer">project report</a>.
 <p align="center">
-  <img src="https://github.com/JanaK-L/AndroidApp_InternationalRoughnessIndex/blob/main/images/index9.jpg" width="195" title="Der Mosasaurier zeigt den über GPS ermittelten Standort des Benutzers an."> 
-  <img src="https://github.com/JanaK-L/AndroidApp_InternationalRoughnessIndex/blob/main/images/klasse5.jpg" width="195" title="Die Fahrt auf einem Grünstreifen vor der Bibliothek am Westerberg.">
-  <img src="https://github.com/JanaK-L/AndroidApp_InternationalRoughnessIndex/blob/main/images/klasse4.jpg" width="195" title="Eine ziemlich holprige Stadtfahrt.">
-  <img src="https://github.com/JanaK-L/AndroidApp_InternationalRoughnessIndex/blob/main/images/glatterWeg2.jpg" width="195" title="Die Fahrt auf einem glatten Weg zwischen der Mensa am Westerberg und dem Gebäude namens der Frosch.">
-  <img src="https://github.com/JanaK-L/AndroidApp_InternationalRoughnessIndex/blob/main/images/index4.jpg" width="195" title="Die gefahrene Strecke kann bei Bedarf gespeichert und später erneut geladen werden.">
+  <img src="https://github.com/JanaK-L/AndroidApp_InternationalRoughnessIndex/blob/main/images/index9.jpg" width="215" title="Der Mosasaurier zeigt den über GPS ermittelten Standort des Benutzers an."> 
+  <img src="https://github.com/JanaK-L/AndroidApp_InternationalRoughnessIndex/blob/main/images/klasse5.jpg" width="215" title="Die Fahrt auf einem Grünstreifen vor der Bibliothek am Westerberg.">
+  <img src="https://github.com/JanaK-L/AndroidApp_InternationalRoughnessIndex/blob/main/images/klasse4.jpg" width="215" title="Eine ziemlich holprige Stadtfahrt.">
+  
+  <img src="https://github.com/JanaK-L/AndroidApp_InternationalRoughnessIndex/blob/main/images/glatterWeg2.jpg" width="215" title="Die Fahrt auf einem glatten Weg zwischen der Mensa am Westerberg und dem Gebäude namens der Frosch.">
+  <img src="https://github.com/JanaK-L/AndroidApp_InternationalRoughnessIndex/blob/main/images/index4.jpg" width="215" title="Die gefahrene Strecke kann bei Bedarf gespeichert und später erneut geladen werden.">
 </p>
 
 <!--
