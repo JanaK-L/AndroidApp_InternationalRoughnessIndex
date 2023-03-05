@@ -19,6 +19,6 @@ This Project attempts to measure the IRI quantitatively, but with a few differen
 The procedure and our results are represented in the <a href="https://github.com/JanaK-L/AndroidApp_InternationalRoughnessIndex/blob/main/ProjectReport.pdf" target="_blank" rel="noreferrer">project report</a>.
 
 <p align="center">
-  <img src="https://github.com/JanaK-L/AndroidApp_InternationalRoughnessIndex/blob/main/images/MosaCutie.png" width="350" title="hover text">
-  <img src="https://github.com/JanaK-L/AndroidApp_InternationalRoughnessIndex/blob/main/images/beimRadfahrenEinenHelmMitMosasaurusDraufTragen.png" width="350" alt="accessibility text">
+  <img src="https://github.com/JanaK-L/AndroidApp_InternationalRoughnessIndex/blob/main/images/MosaCutie.png" width="200" title="App starten">
+  <img src="https://github.com/JanaK-L/AndroidApp_InternationalRoughnessIndex/blob/main/images/beimRadfahrenEinenHelmMitMosasaurusDraufTragen.png" width="200" title="Beim Radfahren sollte ein Helm mit einem Mosasaurus drauf getragen werden.">
 </p>
