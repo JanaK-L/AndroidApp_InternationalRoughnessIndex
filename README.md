@@ -1,4 +1,4 @@
-# Android Application: Calculating the International Roughness Index (IRI) based on GPS and Accelerometer sensors on bicycle-mounted Android smartphones
+# Calculating the International Roughness Index based on GPS and Accelerometer sensors on bicycle-mounted Android smartphones
 
 ![Radfahren in Osnabrück](https://github.com/JanaK-L/AndroidApp_InternationalRoughnessIndex/blob/main/images/RadBanner.png)
 
