@@ -26,8 +26,9 @@ The applied procedure and the results are represented in the <a href="https://gi
   <img src="https://github.com/JanaK-L/AndroidApp_InternationalRoughnessIndex/blob/main/images/klasse4.jpg" width="200" title="Eine ziemlich holprige Stadtfahrt.">
   <img src="https://github.com/JanaK-L/AndroidApp_InternationalRoughnessIndex/blob/main/images/glatterWeg2.jpg" width="200" title="Die Fahrt auf einem glatten Weg zwischen der Mensa am Westerberg und dem Gebäude namens der Frosch.">
   <img src="https://github.com/JanaK-L/AndroidApp_InternationalRoughnessIndex/blob/main/images/index4.jpg" width="200" title="Die gefahrene Strecke kann bei Bedarf gespeichert und später erneut geladen werden.">
+</p>
+
 <!--
   <img src="https://github.com/JanaK-L/AndroidApp_InternationalRoughnessIndex/blob/main/images/beimRadfahrenEinenHelmMitMosasaurusDraufTragen.png" width="200" title="Beim Radfahren sollte ein Helm mit einem Mosasaurus drauf getragen werden.">
   <img src="https://github.com/JanaK-L/AndroidApp_InternationalRoughnessIndex/blob/main/images/keinVideo.png" width="200" title="An dieser Stelle konnte man einmal ein Video über einen Mosasaurus sehen.">
 -->
-</p>
