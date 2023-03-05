@@ -17,5 +17,4 @@ For example, <a href="https://www.mdpi.com/1424-8220/18/3/914" target="_blank" r
 This Project attempts to measure the IRI quantitatively, but with a few differences in comparison to <a href="https://www.mdpi.com/1424-8220/18/3/914" target="_blank" rel="noreferrer">Zang et al. (2018)</a>. For simplicity, we consider the bicycle model without suspension. The original quarter-car model would take into account the suspension of the carrier vehicle and therefore require a more complicated calculation. Since we are approximating the calculation of the IRI here, the values obtained may not fit the range of values used in the literature and thus may not fit the usual classification of values. Therefore, we define our own intervals depending on our results, which value ranges of IRI mean good, average or poor road surface.
 
 The procedure and our results are represented in the <a href="https://github.com/JanaK-L/AndroidApp_InternationalRoughnessIndex/blob/main/ProjectReport.pdf" target="_blank" rel="noreferrer">project report</a>.
-<iframe src="https://github.com/JanaK-L/AndroidApp_InternationalRoughnessIndex/blob/main/ProjectReport.pdf" width="100%" height="500px">
-</iframe>
+![Project Report](https://github.com/JanaK-L/AndroidApp_InternationalRoughnessIndex/blob/main/ProjectReport.pdf)
