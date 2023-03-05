@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Fahrradwegbeschaffenheit</string>
+    <string name="start">Start</string>
+    <string name="ende">Ende</string>
+    <string name="aktuelle_position_n_dezentrieren">Zentrierung an</string>
+    <string name="speichern_der_n_route">Route Speichern</string>
+    <string name="iri">Aktueller IRI Wert</string>
+    <string name="route_laden">Route Laden</string>
+    <string name="info">Information</string>
+    <string name="mosasaurus">Mosasaurus</string>
+    <string name="infoText">Um möglichst unbeeinflusste Ergebnisse zu erhalten, sollte das Handy auf einer Halterung über dem Vorderreifen montiert werden (wie in dem unten gezeigten Bild). Zudem wird eine gute Internetverbindung und ein starkes GPS Signal benötigt (nicht bei Regen fahren). Eine Prekalibrierung ist nicht notwendig. Während des Fahrens sollte das Handy nicht ausgeschaltet und die App nicht in den Hintergrund versetzt werden. Das Fahrrad sollte aufgepumpte Reifen haben. Zuletzt sollte der User einen Helm tragen.</string>
+    <string name="ende1">Ende!</string>
+    <string name="einffilm">Einführungsfilm</string>
+</resources>
