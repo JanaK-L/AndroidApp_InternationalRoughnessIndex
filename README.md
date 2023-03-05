@@ -1,6 +1,6 @@
 # Android Application: Calculating the International Roughness Index (IRI) based on GPS and Accelerometer sensors on bicycle-mounted Android smartphones
 
-![Radfahren in Osnabrück](https://github.com/JanaK-L/AndroidApp_InternationalRoughnessIndex/blob/master/RadBanner.png)
+![Radfahren in Osnabrück](https://github.com/JanaK-L/AndroidApp_InternationalRoughnessIndex/blob/main/RadBanner.png)
 
 In Osnabrück, bicycle traffic is of great importance:
 * Proportion of students in the total population is over 15%
